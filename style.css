@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(0.jpg);
+   position: absolute;
+   width: 900px;
+}
+h1{
+    color: lightskyblue;
+    font-size: 70px;
+    text-shadow: grey;
+}
+.mein{
+    position: absolute;
+    padding-top: 40%;
+    left: 50%;
+}
+h2{
+    display: inline;
+    font-size: 60px;
+    font-display: center;
+    margin: 10px;
+    color: #fff;
+}
+button{
+    font-size: 30px;
+    margin: 10px;
+    background-color: grey;
+    border: 4px khaki solid;
+    text-shadow:grey 5px 5px 5px;
+}
